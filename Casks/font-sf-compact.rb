@@ -2,7 +2,7 @@ cask 'font-sf-compact' do
     version :latest
     sha256 :no_check
 
-    url 'https://developer.apple.com/design/downloads/SF-Font-Compact.dmg'
+    url 'https://devimages-cdn.apple.com/design/resources/download/SF-Compact.dmg'
     name 'SF Compact'
     homepage 'https://developer.apple.com/fonts/'
 
